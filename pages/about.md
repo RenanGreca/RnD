@@ -8,7 +8,7 @@ We are Renan 🇧🇷 and Debo 🇮🇳, two PhD students in Computer Science li
 
 This blog is where we will narrate some of our adventures around the world, also giving suggestions about where to go and what to eat there. Sometimes we will also sprinkle in thoughts from our other interests when relevant, such as science, music, photography, film, video games and books.
 
-![R&D](/assets/img/rnd.jpeg)
+![R&D](../assets/img/rnd.jpeg)
 
 If you want to find out more about us, you can find us on social media:
 
