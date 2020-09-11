@@ -28,7 +28,7 @@ Soft and chewy define the feeling of eating it, and Tonnarello manages to prepar
 An abundance of cheese and guanciale also guarantee maximum flavor in every bite.
 
 Perhaps the most impressive aspect of Tonnarello, however, is the price.
-At only 9€, this fantastic dish is well within Italian standards for a pasta dish, and is even cheaper than other Restaurants closer to the main turistic destinations.
+At only 9€, this fantastic dish is well within Italian standards for a pasta dish, and is even cheaper than other Roman restaurants closer to the main turistic destinations.
 
 We must also remember that Tonnarello was one of the places that inspired us to start writing this blog.
 
