@@ -6,7 +6,7 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
-.post-date {
+.post-date, figcaption {
   display: block;
   margin-bottom: 1rem;
   color: #9a9a9a;
@@ -15,6 +15,11 @@
 .featured-image img {
   align: middle;
   margin: 5px auto 25px;
+  display: block;
+  max-width: 600px;
+}
+.post-image {
+  align: middle;
   display: block;
   max-width: 600px;
 }
@@ -33,6 +38,11 @@
     display: block;
     max-width: 60vw;
   }
+  .post-image {
+    align: middle;
+    display: block;
+    max-width: 60vw;
+  }
 }
 @media (max-width: $tablet-width) {
   .page-content {
@@ -46,6 +56,11 @@
   .featured-image img {
     align: middle;
     margin: 5px auto 25px;
+    display: block;
+    max-width: 95vw;
+  }
+  .post-image {
+    align: middle;
     display: block;
     max-width: 95vw;
   }
