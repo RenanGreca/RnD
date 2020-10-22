@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Having authentic carbonara in Trastevere"
-author: "RnD"
+author: "Renan Greca"
 categories: food
 tags: [food]
 image: carbonara.jpeg
