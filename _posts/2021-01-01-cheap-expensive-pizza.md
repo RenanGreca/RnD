@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Experimenting on homemade pizza Margherita with cheap and expensive ingredients."
+title: "Experimenting on homemade pizza Margherita with cheap and expensive ingredients"
 author: "Debashmita Poddar"
 categories: food
 tags: [food]
