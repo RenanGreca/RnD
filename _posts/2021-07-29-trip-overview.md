@@ -4,7 +4,7 @@ title: "The 'Vaccine Euro Tour' Overview"
 author: "Renan Greca"
 categories: travel
 tags: [travel, europe]
-image: 
+image: DSC02608.JPG
 ---
 
 Yes, there has been another huge gap since the last post, but there's a good reason for it. 
