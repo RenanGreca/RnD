@@ -8,7 +8,7 @@ image: TikTok-Logo.jpg
 ---
 
 Last year was a tremendous sucess for TikTok. Let me give you a brief backstory of the app. TikTok was developed and owned by a Chinese company, ByteDance.
-The platform lets you share short videos (15s, 30s, 1m, 3m) on its platform. You can create any content of your choice, use hashtags to categorize it, add 
+The platform lets you share short videos (15s, 1m, 3m) on its platform. You can create any content of your choice, use hashtags to categorize it, add 
 a soundtrack (original or score), and post it. You can think of it as Instagram, but for videos. You can like, comment, share a post like any other social
 media platforms. Last year, TikTok was ranked the third fastest growing brand. The reasoning behind this is simple. When people were under a lockdown and 
 working from home, they started being creative to not feel bored. People started to share food recipes, household hacks, knowledge about different subjects,
@@ -20,11 +20,11 @@ We decided to try out some of the viral recipes from the food TikTok community. 
 of special ingredients, was easy to recreate, fast, and food combinations that looked edible. We tried to find a breakfast, drink, lunch, dinner and dessert
 recipe. We researched a bit and tried to find the original video on Tiktok which blew up to make the experience more authentic. Our picks were:
 
-1. Breakfast: <a href="tiktok.com/@amywilichowski/video/6955536851595758853">Pesto eggs</a> 
-2. Drink: <a href="tiktok.com/@imhannahcho/video/6802754868902710533">Dalgona coffee</a>
-3. Lunch: <a href="tiktok.com/@liemessa/video/6923943550111550726">Baked Feta pasta</a>
-4. Dessert: <a href="tiktok.com/@cookingwithshereen/video/6805684184099622150">Banana bread</a>
-5. Dinner: <a href="tiktok.com/@westnest4/video/6921498209642679557">Budget Ramen</a>
+1. Breakfast: <a href="https://tiktok.com/@amywilichowski/video/6955536851595758853">Pesto eggs</a> 
+2. Drink: <a href="https://tiktok.com/@imhannahcho/video/6802754868902710533">Dalgona coffee</a>
+3. Lunch: <a href="https://tiktok.com/@liemessa/video/6923943550111550726">Baked Feta pasta</a>
+4. Dessert: <a href="https://tiktok.com/@cookingwithshereen/video/6805684184099622150">Banana bread</a>
+5. Dinner: <a href="https://tiktok.com/@westnest4/video/6921498209642679557">Budget Ramen</a>
 
 
 
