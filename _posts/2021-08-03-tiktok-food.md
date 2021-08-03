@@ -18,7 +18,7 @@ recreated million times were deemed to be viral.
 
 We decided to try out some of the viral recipes from the food TikTok community. While choosing the food, we tried to find the ones which didn't require a lot
 of special ingredients, were easy to recreate, fast, and looked edible. We tried to find a breakfast, drink, lunch, dinner and dessert
-recipe. We researched a bit and tried to find the original viral videos on Tiktok to make the experience more authentic. Our picks were:
+recipe. We researched a bit and tried to find the original viral videos on TikTok to make the experience more authentic. Our picks were:
 
 1. Breakfast: <a target="blank" href="https://tiktok.com/@amywilichowski/video/6955536851595758853">Pesto eggs</a> 
 2. Drink: <a target="blank" href="https://tiktok.com/@imhannahcho/video/6802754868902710533">Dalgona coffee</a>
