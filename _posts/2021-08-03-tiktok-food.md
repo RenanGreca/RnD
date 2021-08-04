@@ -115,7 +115,7 @@ The last recipe was created by a woman who wanted to make a budget friendly lunc
 instead of using the seasoning packets that comes along with those noodles. Now, we all know that the seasoning packets contain a truck full of salt, MSG, and
 other chemicals that under excess consumption can make you sick. She manages to make a super simple sauce with the most basic ingredients: butter, garlic, chili
 flakes, brown sugar and soy sauce. Then she mixes the cooked instant noodles with the sauce, adds an egg for the protein and garnishes with some green onions and 
-*Everything but the Bagel Sesame* seasoning from *Trader Joe's*. Since we are not living in the US, we couldn't find this speacific seasoning, so we substituted 
+*Everything but the Bagel Sesame* seasoning from *Trader Joe's*. Since we are not living in the US, we couldn't find this specific seasoning, so we substituted 
 it with sesame seeds instead. The recipe was so simple and budget friendly, that it became viral overnight. It was the perfect dorm food, which tasted good
 without the seasoning packet. There were many spin-offs to the sauce by using oil or peanut butter, but idea of making your own sauce made it famous. The
 whole package tasted great and didn't make a whole in the pocket, but can I eat it everyday? No. The nutritional value is still not great, and we can't 
