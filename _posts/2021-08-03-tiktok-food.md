@@ -117,7 +117,7 @@ other chemicals that under excess consumption can make you sick. She manages to 
 flakes, brown sugar and soy sauce. Then she mixes the cooked instant noodles with the sauce, adds an egg for the protein and garnishes with some green onions and 
 *Everything but the Bagel Sesame* seasoning from *Trader Joe's*. Since we are not living in the US, we couldn't find this specific seasoning, so we substituted 
 it with sesame seeds instead. The recipe was so simple and budget friendly, that it became viral overnight. It was the perfect dorm food, which tasted good
-without the seasoning packet. There were many spin-offs to the sauce by using oil or peanut butter, but idea of making your own sauce made it famous. The
+without the seasoning packet. There were many spin-offs to the sauce by using chili oil or peanut butter, but idea of making your own sauce made it famous. The
 whole package tasted great and didn't make a whole in the pocket, but can I eat it everyday? No. The nutritional value is still not great, and we can't 
 substitute actual meals with hangover food. **Overall score: 3/5**
 
