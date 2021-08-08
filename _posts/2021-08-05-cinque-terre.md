@@ -7,7 +7,7 @@ tags: [travel, italy]
 image: 2021-08-05-cinque-terre.jpeg
 ---
 
-This weekend, we came to Cinque Terre, a national park in Italy that Debo and I have been meaning to come for quite a long time — before COVID-19 forced us to delay our plans. 
+The first leg of our trip was Cinque Terre, a national park in Italy that Debo and I have been meaning to come for quite a long time — before COVID-19 forced us to delay our plans. 
 Now, being vaccinated ourselves and with Italy as a whole reaching a high level of vaccination, we decided it was time to come.
 
 Cinque Terre is easy to reach from most major Italian cities. 
