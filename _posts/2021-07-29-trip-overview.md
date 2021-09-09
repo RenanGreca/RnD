@@ -24,7 +24,7 @@ For now, I'll list the itinerary we followed, so everyone can have an idea of wh
 
 Country | Place | Dates
 --- | --- | ---
-Italia (Italy) | Cinque Terre | 26/06 - 29/06
+Italia (Italy) | <a href="https://rnd.today/travel/cinque-terre.html">Cinque Terre</a> | 26/06 - 29/06
 Italia (Italy) | Genova (Genoa) | 29/06 - 01/07
 Italia (Italy) | Torino (Turin) | 01/07 - 03/07
 France | Nice | 03/07 - 06/07
