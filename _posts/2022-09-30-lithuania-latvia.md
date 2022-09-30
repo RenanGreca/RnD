@@ -29,7 +29,7 @@ If you're spending a day in town, the mandatory spot to visit is [Mount Gedimina
 It provides a great view of the city together with some history about the place.
 You can climb up by foot, or pay a small fee to ride the small funicular (one way or both ways, as you prefer).
 
-{% include image.html file="../assets/img/poland/gediminas.jpg" alt="Mount Gediminas" caption="Mount Gediminas." %}
+{% include image.html file="../assets/img/2022-09-30-lithuania-latvia/gediminas.jpg" alt="Mount Gediminas" caption="Mount Gediminas." %}
 
 One of the most unique attractions in Vilnius is the [Vilnius-Lublin Portal](https://www.theverge.com/2021/5/30/22460964/vilnius-lithuania-portal-poland-connection-pandemic), which was inaugurated during the pandemic.
 It's a collaboration between the universities of Vilnius and Lublin (Poland) and is essentially a live stream video feed placed in both cities.
@@ -42,14 +42,14 @@ The main sight there is [Trakai Castle](https://goo.gl/maps/8zhTHWxb5k8nEfzu5), 
 That's not really why we went there; Debo really wanted to try the local snack, kibinu.
 It's quite similar to the empanadas we get in Latin America, but I can't complain — it was great!
 
-{% include image.html file="../assets/img/poland/trakai.jpg" alt="Debo and Trakai Castle" caption="Debo and Trakai Castle." %}
+{% include image.html file="../assets/img/2022-09-30-lithuania-latvia/trakai.jpg" alt="Debo and Trakai Castle" caption="Debo and Trakai Castle." %}
 
 > You can also reach Trakai by train. We opted for the car because the train schedule was a bit inconvenient and, considering we would need six tickets (two for each person), the price difference was minimal.
 
 Finally, when we were done with Vilnius, we went to a local mall to eat — for some reason I always like checking out malls in different countries to see what kinds of shops they have (and to see what's expensive and what's cheap!).
 The surprising thing about [Akropolis Vilnius](https://goo.gl/maps/vtjA8u8F11F5xYre6) is that its food court is built around an ice hockey rink, so you get to watch the kids practicing or even pro matches while you dine.
 
-{% include image.html file="../assets/img/poland/akropolis.jpg" alt="The ice hockey rink in Akropolis Vilnius" caption="The ice hockey rink in Akropolis Vilnius." %}
+{% include image.html file="../assets/img/2022-09-30-lithuania-latvia/akropolis.jpg" alt="The ice hockey rink in Akropolis Vilnius" caption="The ice hockey rink in Akropolis Vilnius." %}
 
 # Latvia
 
@@ -60,7 +60,7 @@ Its primary feature is the five or six sharp towers that populate the skyline; s
 Even though Riga is right next to the Baltic sea, it's not really a coastal city; instead, it's built around the Daugava river.
 At the [Latvian Academy of Sciences](https://goo.gl/maps/GidqSVKgwpxw6eSg8), you can reach the terrace and get a panoramic view of the city, including its historical and modern parts.
 
-{% include image.html file="../assets/img/poland/riga-opera.jpg" alt="Latvian National Opera" caption="Latvian National Opera." %}
+{% include image.html file="../assets/img/2022-09-30-lithuania-latvia/riga-opera.jpg" alt="Latvian National Opera" caption="Latvian National Opera." %}
 
 Other spots worth checking out are the [Lavian National Opera](https://g.page/LatvijasNacionalaOperaunBalets), the [Town Hall](https://goo.gl/maps/VZLy5WhDX699ihDa6), the [Cat House](https://goo.gl/maps/JqLcnt3UJov3oJL46), the [Dome Square](https://goo.gl/maps/tPqjxkLwA7ie5Mdo8), and the houses known as [Three Brothers](https://goo.gl/maps/yJEo91pPP49X2Us78).
 Riga's historic center is very small and walkable, so all this can be done in a single afternoon.
@@ -69,7 +69,7 @@ Also in Latvia we took a short-term car rental to visit some towns and castles i
 Our first stop was the [Castle of Sigulda](https://goo.gl/maps/aY1b3SURZqaj5gwx7), which are well-preserved ruins from the 13th-century.
 Aside from the ruins themselves, the place is worth visiting because it has a privileged view of the Gauja river, around which we can observe three other castles from different periods (it's all explained in the signs there).
 
-{% include image.html file="../assets/img/poland/sigulda.jpg" alt="View from Castle of Sigulda" caption="View from Castle of Sigulda." %}
+{% include image.html file="../assets/img/2022-09-30-lithuania-latvia/sigulda.jpg" alt="View from Castle of Sigulda" caption="View from Castle of Sigulda." %}
 
 One of those is [Turaida Castle](https://goo.gl/maps/L67fBg1crvVbmRrB7), which can easily be reached by driving only 5 or so minutes from Sigulda.
 Aside the castle itself, the visit was worth our time due to the park that surrounds it, which is full of nature and also includes an open-air sculpture museum.
@@ -77,7 +77,7 @@ Aside the castle itself, the visit was worth our time due to the park that surro
 We then headed to Cesis, which was actually our main objective that day. Cesis is a slightly larger town in the Gauja river region, and of course has a castle of its own.
 The castle is made into a nice touristic destination by the medieval enery going on — all the museum workers are dressed in period clothes and there are stalls showing some of the foods and techniques that were available at the time.
 
-{% include image.html file="../assets/img/poland/cesis.jpg" alt="The movie projection in Cesis" caption="The movie projection in Cesis." %}
+{% include image.html file="../assets/img/2022-09-30-lithuania-latvia/cesis.jpg" alt="The movie projection in Cesis" caption="The movie projection in Cesis." %}
 
 The medieval experience is hightened when we visit the castle's basement using only a candle lantern as a light source.
 On the upper floor there is a projection room that shows a movie illustrating the history of the castle; it's not just projected in a flat screen, rather it is seen all around the cyllindrical shape of the tower.
