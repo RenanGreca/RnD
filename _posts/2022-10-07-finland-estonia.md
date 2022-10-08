@@ -78,12 +78,12 @@ I had been on short international cruises before (once from Montevideo to Buenos
 Reaching Tallinn, we took a Bolt to the old center, where we stayed in a pretty good hostel.
 The historic center of Tallinn is certainly the most interesting one out of the Baltics, since you can still clearly see the medieval structure of the place, with large stone walls and towers surrounding the area.
 
-{% include image.html file="../assets/img/2022-10-07-finland-estonia/tallin-walls.jpg" alt="The surrounding walls of Tallinn" caption="The surrounding walls of Tallinn." %}
+{% include image.html file="../assets/img/2022-10-07-finland-estonia/tallinn-walls.jpg" alt="The surrounding walls of Tallinn" caption="The surrounding walls of Tallinn." %}
 
 The main square is laid out similarly to the towns in Poland — a big open square with the [town hall](https://goo.gl/maps/YaDzX2b2bzhPfNzk7) in the middle and many shops and restaurants surrounding it.
 There are some [historic buildings](https://goo.gl/maps/L5W4U8B2Qa1gyHmv9) and [cute parks](https://goo.gl/maps/nx6uxYL67twiP8iV9) to check out, but you do not want to miss the [Aleksander Nevsky Cathedral](https://goo.gl/maps/Synz76xrm1wcBszy7), which is an impressive display of Orthodox style architecture.
 
-{% include image.html file="../assets/img/2022-10-07-finland-estonia/tallin-cathedral.jpg" alt="The Aleksander Nevsky Cathedral in Tallinn" caption="The Aleksander Nevsky Cathedral in Tallinn." %}
+{% include image.html file="../assets/img/2022-10-07-finland-estonia/tallinn-cathedral.jpg" alt="The Aleksander Nevsky Cathedral in Tallinn" caption="The Aleksander Nevsky Cathedral in Tallinn." %}
 
 > You might think "wow, this guy must be very religious if he recommends so many churches" — trust me, I'm not. But in Europe, there are so many churches with unique architectural styles, which I enjoy observing. And in almost every town, there will be a church that somehow tells the place's history using just its facade.
 
