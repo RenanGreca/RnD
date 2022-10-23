@@ -3,15 +3,19 @@
 {% if page.title == "Home" %}
     <title> {{ site.title }} | {{ site.description }} </title>
     <meta property="og:title" content="{{ site.title }}"/>
+    <meta property="twitter:title" content="{{ site.title }}"/>
     <meta property="og:url" content="{{ site.url }}"/>
     <meta property="og:description" content="{{ site.description }}"/>
+    <meta property="twitter:description" content="{{ site.description }}"/>
     <meta property="article:author" content="{{ site.author }}"/>
 {% else %}
     <title>{{ page.title }} | {{ site.title }}</title>
     <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="twitter:title" content="{{ page.title }}"/>
     <meta property="og:type" content="article"/>
     <meta property="og:url" content="{{ page.url }}"/>
     <meta property="og:description" content="{{ site.title }}"/>
+    <meta property="twitter:description" content="{{ site.title }}"/>
     <meta property="article:author" content="{{ page.author }}"/>
   
     <meta property="og:image" content="{{ site.github.url }}/assets/img/{{ page.image }}"/>  
